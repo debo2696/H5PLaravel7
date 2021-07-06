@@ -175,6 +175,8 @@ return [
         App\Providers\EventServiceProvider::class,
         App\Providers\RouteServiceProvider::class,
 
+        EscolaSoft\LaravelH5p\LaravelH5pServiceProvider::class,
+
     ],
 
     /*
