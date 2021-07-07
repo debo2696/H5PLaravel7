@@ -2,7 +2,7 @@
 
 @section( 'h5p' )
 <div class="container-fluid">
-
+    <h1>Admin H5P</h1>
     <div class="row">
 
         <div class="col-md-9">
